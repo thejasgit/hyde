@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #009688;
+  background-color: #75b5aa;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -73,6 +73,10 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+}
+
+.sidebar a.title{
+  font-size: 2em;
 }
 
 /* About section */
@@ -93,7 +97,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+ color: azure;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
