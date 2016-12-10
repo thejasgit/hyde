@@ -170,15 +170,24 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-.content-main {
-    
-    background:url(bg.jpg);
-    
-    
+.profile-pic {
+    padding: 20px 0;
 }
 
-
+.profile-pic img {
+    width: 100px;
+    height: 100px;
+}
+.profile-pic img {
+    width: 100px;
+    height: 100px;
+}
+.img-circle {
+    border-radius: 50%;
+}
+img {
+    vertical-align: middle;
+}
 /*
  * Themes
  *
