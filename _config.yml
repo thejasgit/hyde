@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+
 highlighter:      pygments
 baseurl:          /hyde/
 
@@ -8,15 +8,15 @@ permalink:        pretty
 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Thejas Kumar Gangadhar
+tagline:          'My Blog'
+description:      'Tech Enthusiast | Software Developer'
 url:              http://hyde.getpoole.com
 
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Thejas Kumar'
+  url:            https://twitter.com/thejasg13
 
 paginate:         5
 
