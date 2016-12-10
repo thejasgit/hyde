@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #75b5aa;
+  background-color: #337ab7;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -76,7 +76,7 @@ html {
 }
 
 .sidebar a.title{
-  font-size: 2em;
+  font-size: 1em;
 }
 
 /* About section */
@@ -170,6 +170,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
+.content-main {
+    
+    background:url(bg.jpg);
+    
+    
+}
 
 
 /*
