@@ -44,14 +44,14 @@ html {
     font-size: 20px;
   }
 }
-h1,h5{
+.desc{
     
     text-align: center;
 }
 
 .content-main{
  
-    background: url(bg.jpg);
+    background: url(https://thejasgit.github.io/hyde/bg.jpg) no-repeat;
     
 }
 
