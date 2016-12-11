@@ -53,6 +53,9 @@ html {
  
     background: url(https://thejasgit.github.io/hyde/bg.jpg) center no-repeat;
     background-size:cover;    
+    -webkit-filter: blur(3px); /* Safari 6.0 - 9.0 */
+    filter: blur(3px);
+}
 }
 
 /*
