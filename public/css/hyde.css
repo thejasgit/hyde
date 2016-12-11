@@ -44,7 +44,16 @@ html {
     font-size: 20px;
   }
 }
+h1,h5{
+    
+    text-align: center;
+}
 
+.content-main{
+ 
+    background: url(bg.jpg);
+    
+}
 
 /*
  * Sidebar
