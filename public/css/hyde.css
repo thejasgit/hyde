@@ -98,6 +98,10 @@ html {
   font-size: 0.7em;
 }
 
+.sidebar a.title:hover,.sidebar a.title:focus{
+ 
+color: gainsboro;
+}
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -145,7 +149,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
