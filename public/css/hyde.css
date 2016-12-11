@@ -51,8 +51,8 @@ html {
 
 .content-main{
  
-    background: url(https://thejasgit.github.io/hyde/bg.jpg) no-repeat;
-    
+    background: url(https://thejasgit.github.io/hyde/bg.jpg) center no-repeat;
+    background-size:cover;    
 }
 
 /*
